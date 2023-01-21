@@ -44,7 +44,7 @@ WITH geo_table (geo, state, county, name, lsad, censusarea, type, coordinates)
         (
             -- json_populate_recordset() will convert a list of dicts to Column/Row
             -- pass through the data types for your keys, then the list of dicts
-            -- don't forget to wrap in () and use (data).* to populate columns
+            -- dont forget to wrap in () and use (data).* to populate columns
             SELECT (json_populate_recordset(null::feature_rows, json_table.data->'features')).*
             FROM json_table
         ) AS data_table 
