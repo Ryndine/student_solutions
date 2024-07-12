@@ -1,10 +1,10 @@
 ﻿first_name,last_name,email,gender,condition
-Shaine,Richford,srichford0@deviantart.com,Female,"Sore Throat, High Fever"
-Michael,Bidgood,mbidgood1@telegraph.co.uk,Male,"Vomiting, Breathing, Sore Throat"
-Elmo,Siddens,esiddens2@patch.com,Male,"Breathing, High Fever, Weak Pulse"
-Geneva,Aucourte,gaucourte3@dot.gov,Female,"Vomiting, Breathing"
+Shaine,Richford,srichford0@deviantart.com,Female,Sore Throat | High Fever
+Michael,Bidgood,mbidgood1@telegraph.co.uk,Male,Vomiting | Breathing | Sore Throat
+Elmo,Siddens,esiddens2@patch.com,Male,Breathing | High Fever | Weak Pulse
+Geneva,Aucourte,gaucourte3@dot.gov,Female,Vomiting | Breathing
 Kristy,Tabert,ktabert4@deviantart.com,Polygender,Sore Throat
-Cordie,Davidowich,cdavidowich5@desdev.cn,Female,"Vomiting, High Fever"
-Vaughan,Soans,vsoans6@princeton.edu,Male,"High Fever, Sore Throat, Breathing, Weak Pulse, Vomiting"
-Kelsi,Dingley,kdingley7@columbia.edu,Bigender,"Sore Throat, Vomiting"
+Cordie,Davidowich,cdavidowich5@desdev.cn,Female,Vomiting | High Fever
+Vaughan,Soans,vsoans6@princeton.edu,Male,High Fever | Sore Throat | Breathing | Weak Pulse | Vomiting
+Kelsi,Dingley,kdingley7@columbia.edu,Bigender,Sore Throat | Vomiting
 Gus,Franzen,gfranzen8@yellowbook.com,Male,High Fever
